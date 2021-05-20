@@ -1,5 +1,2 @@
 sword
 all
-aaa
-bbb
-kkk
