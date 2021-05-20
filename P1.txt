@@ -1,5 +1,2 @@
 sword
 all
-aaaaa
-bbbb
-hhhh
