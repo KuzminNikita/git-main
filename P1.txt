@@ -1,9 +1,9 @@
 sword
 all
 aaaaa
-<<<<<<< HEAD
-bbbb
-=======
 bbbb
 hhhh
->>>>>>> 46914f2 (probel)
+aaa
+bbb
+kkk
+
