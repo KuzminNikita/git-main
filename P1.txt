@@ -3,6 +3,9 @@ all
 aaaaa
 bbbb
 hhhh
+<<<<<<< HEAD
 ------
 mmmm
 
+=======
+>>>>>>> parent of 60b6a3d (gg)
