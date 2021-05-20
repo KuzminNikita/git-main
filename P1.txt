@@ -1,6 +1,7 @@
 sword
 all
 aaaaa
+<<<<<<< HEAD
 bbbb
 hhhh
 aaa
@@ -8,3 +9,5 @@ bbb
 kkk
 
 save
+=======
+>>>>>>> 52268b6 (add aaaaa)
